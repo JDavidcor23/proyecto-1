@@ -1,10 +1,14 @@
-body{
+*{
+	background: #BD28A7;
+}
+#cabecera {
 	color: #333;
 	text-align: center;
 	font-family: 'Anton', sans-serif;
 	font-size: 16px;
 	margin: 0;
 	padding: 0;
+	position: relative;
 }
 #cabecera{
 	background: #00F4E4;
@@ -17,9 +21,33 @@ body{
 #container{
 	width: 70%;
 	padding: 0;
-	border: 1px solid #ddd;
+	border: 5px solid black ;
 	margin: 0 auto;
 }
 #container h1{
 	font-size: 20px;
+}
+#post {
+	color:black;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 16px;
+	margin: 0;
+    padding-top: 2px;
+	z-index: -1;
+}
+h1{
+	background: #4AF087;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p{
+	background: #4AF087;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+img{
+	background: #00F4E4;
 }
