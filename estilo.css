@@ -29,7 +29,6 @@
 }
 #post {
 	color:black;
-	text-align: center;
 	font-family: 'Anton', sans-serif;
 	font-size: 16px;
 	margin: 0;
@@ -40,6 +39,7 @@ h1{
 	background: #4AF087;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	padding-left: 10px;
 }
 p{
 	background: #4AF087;
@@ -47,7 +47,9 @@ p{
 	margin-bottom: 0px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	padding-left: 10px;
 }
+
 img{
 	background: #00F4E4;
 }
