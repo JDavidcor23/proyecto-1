@@ -2,8 +2,6 @@
 	background: #BD28A7;
 }
 #cabecera {
-	color: #333;
-	text-align: center;
 	font-family: 'Anton', sans-serif;
 	font-size: 16px;
 	margin: 0;
@@ -30,7 +28,6 @@
 #post {
 	color:black;
 	font-family: 'Anton', sans-serif;
-	font-size: 16px;
 	margin: 0;
     padding-top: 2px;
 	z-index: -1;
@@ -50,6 +47,3 @@ p{
 	padding-left: 10px;
 }
 
-img{
-	background: #00F4E4;
-}
